@@ -39,7 +39,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"ibmmq"
+	"github.com/ibm-messaging/mq-golang/ibmmq"
 	"os"
 	"time"
 )

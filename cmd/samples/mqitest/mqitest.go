@@ -38,7 +38,7 @@ package main
 
 import (
 	"fmt"
-	"ibmmq"
+	"github.com/ibm-messaging/mq-golang/ibmmq"
 	"os"
 	"strings"
 )
